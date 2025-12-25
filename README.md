@@ -1,0 +1,1 @@
+This project contains the source code of the entire B+ tree index structure. The insert, update, and Delete Operations have been implemented, taking care of underflow and overflow and Root restructuring.
